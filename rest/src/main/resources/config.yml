@@ -1,0 +1,9 @@
+sessioninfo:
+	SessionTimeOut: 3
+	list: 
+		values: Mercury, Supriya, Sutar
+dbcredentails:
+	username: Sup
+	password: temp01
+	hostname: localhost
+	port: 3306
